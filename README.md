@@ -1,4 +1,11 @@
-## Hi there 👋
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Hey%20Everyone&animation=scaleIn"/>
+</p>
+
+ <p align="right">
+  <img src="https://media1.tenor.com/m/FVbQ-0-0uI4AAAAd/cat.gif" width="300"/>
+</p> -->
+
 
 <!--
 **ria30102004/ria30102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
